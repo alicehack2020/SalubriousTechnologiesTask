@@ -41,7 +41,7 @@ const Form = () => {
                 successMessage("Product Added Sucessfully")
                 setClick(false)
                 setFormData({
-                    title: "",
+                    name: "",
                     description: "",
                     price: "",
                     discountPercentage: "",
